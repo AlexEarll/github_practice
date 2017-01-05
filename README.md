@@ -4,7 +4,7 @@ A repository with which to practice using git.
 
 ### What is your name?
 
-butt
+Alex
 
 
 ### What is your favorite color?
